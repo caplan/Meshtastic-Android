@@ -4,3 +4,7 @@
 [submodule "geeksville-androidlib"]
 	path = geeksville-androidlib
 	url = https://github.com/meshtastic/geeksville-androidlib.git
+[submodule "https://github.com/caplan/Meshtastic-protobufs"]
+	url = app/src/main/proto
+[submodule "https://github.com/caplan/geeksville-androidlib"]
+	url = geeksville-androidlib
